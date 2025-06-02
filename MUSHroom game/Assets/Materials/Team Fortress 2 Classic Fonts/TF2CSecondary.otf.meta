@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c8ebf30a15935a148964fe5e3bf1b420
+timeCreated: 1748570021
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TF2C Secondary
+  fontNames:
+  - TF2C Secondary
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f07a5b072a62e9c438733132b173899c
+timeCreated: 1748733468
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Masquerade Toy Store Stuff
+  fontNames:
+  - Masquerade Toy Store Stuff
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

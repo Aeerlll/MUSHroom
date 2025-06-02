@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c21298aad7f9a50438901839f49f9334
+timeCreated: 1748733434
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zametka_Parletter
+  fontNames:
+  - Zametka_Parletter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

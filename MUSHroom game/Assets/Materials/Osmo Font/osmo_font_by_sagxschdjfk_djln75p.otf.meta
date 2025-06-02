@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6b617ee146b1f454fb8e1672a9b61ace
+timeCreated: 1748635884
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Osmo Font
+  fontNames:
+  - Osmo Font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
