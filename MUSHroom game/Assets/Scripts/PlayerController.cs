@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
         // Поворачиваемся к точке
         transform.LookAt(heihtCorrectedPoint);
     }
-    // Метод вызывается на каждый кадр физики (фикшн тайм)
+    // Метод вызывается на каждый кадр физики
     void FixedUpdate()
     {
         // Передвигаем Rigidbody в новое место на основе скорости
